@@ -45,3 +45,6 @@ Single + Low Salary + Overtime + Sales Role
 |---|---|
 | `hr_attrition_analysis.sql` | All SQL queries |
 | `HR_Attrition_Dashboard.pbix` | Power BI dashboard |
+
+## 📸 Dashboard Preview
+![HR Attrition Dashboard](HR%20dashboard.png)
