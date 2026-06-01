@@ -155,6 +155,3 @@ Anas Khan
 HR Attrition Analysis — 2025
 Tools: MySQL | Power BI | Excel
 Certificate: Microsoft Power BI Data Analyst
----
-
-## ⚠️ Most At-Risk Profile
