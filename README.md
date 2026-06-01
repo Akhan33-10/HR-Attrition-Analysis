@@ -134,7 +134,7 @@ Professional dark blue Power BI theme:
 ## 📸 Dashboard Screenshot
 
 ### Page 1 — Dashboard
-![HR Attrition Dashboard](HR_Attrition_Dashboard.png)
+![HR Attrition Dashboard](HR_Attrition_dashboard.png)
 
 ---
 
