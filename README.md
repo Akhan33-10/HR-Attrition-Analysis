@@ -5,7 +5,7 @@ Analyzed 1,470 employee records to identify key attrition
 patterns and provide actionable retention recommendations 
 using MySQL and Power BI with a custom dark blue theme.
 
----
+--
 
 ## 🛠️ Tools & Technologies
 | Tool | Purpose |
